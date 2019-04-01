@@ -1,0 +1,3 @@
+# 3tier-bad
+3tier-bad-playbook redhat 
+This works 1 time.....
